@@ -35,7 +35,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="https://drive.google.com/file/d/17aOfdkGMb1bjA5w6x4sl9qAkBgaAzUrB/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1TS4gf_pshMahUnDKkyUZD94bA51uzflJ/view?usp=drivesdk"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download Resume
@@ -92,4 +92,5 @@ export const AboutSection = () => {
       </div>
     </section>
   );
+
 };
